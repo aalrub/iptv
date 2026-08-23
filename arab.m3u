@@ -3304,8 +3304,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV2.vn@SD" tvg-logo="https://i.imgur.com/uqMu5Fb.png" group-title="Documentary",Tra Vinh TV 2 (720p)
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" http-referrer="https://tvu.umsa.bo/tvu-internacional" group-title="Documentary",UMSA TVU Internacional (720p)
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="XtremaAnimal.ar@SD" tvg-logo="https://i.imgur.com/HQxKLlK.png" http-referrer="https://xtrematv.com/?p=1504" group-title="Documentary",Xtrema Animal
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
