@@ -6444,13 +6444,13 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="SerajTV.ps@SD" tvg-logo="https://i.imgur.com/1d25a9Q.png" http-referrer="https://www.alaqsanet.news/" group-title="Palestine",Seraj TV (1080i)
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 
-#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="News",Palestine Al Yawm (720p)
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="Palestine",Palestine Al Yawm (720p)
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News",Palestine Today (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="Palestine",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="News",ALFAjr1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="Palestine",ALFAjr1
 https://vstream3.hadara.ps:8443/AlfajertvHD1_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="News",ALFAjr2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="Palestine",ALFAjr2
 http://stream2.alfajertv.com:80/live/smil:live.smil/playlist.m3u8
 
 ##United Kingdom##
