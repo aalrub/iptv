@@ -127,7 +127,7 @@ http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News",Oman Mubashir (1080p)
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News",Palestine Today (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="Palestine",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" group-title="News",Red TV Lebanon (1080p)
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
@@ -3415,7 +3415,7 @@ https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 
 
 # ----------------------------------------------------- EDUCATION ---
-#EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Education",Palestine Edu (1080p)
+#EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Palestine",Palestine Edu (1080p)
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 # --- EDUCATION ---
 #EXTINF:-1 tvg-id="AlAlamiya2.sd@SD" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Education",Al Alamiya 2
@@ -4047,7 +4047,7 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="Entertainment",OTV (1080p)
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineMubasher.ps@SD" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="Entertainment",Palestine Mubasher (1080p)
+#EXTINF:-1 tvg-id="PalestineMubasher.ps@SD" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="Palestine",Palestine Mubasher (1080p)
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="Prime.sy@HD" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" group-title="Entertainment",Prime (1080p)
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
@@ -6448,8 +6448,10 @@ https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nl
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="News",ALFAjr1
+https://vstream3.hadara.ps:8443/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="News",ALFAjr2
+http://stream2.alfajertv.com:80/live/smil:live.smil/playlist.m3u8
 
 ##United Kingdom##
 #EXTINF:-1 tvg-id="BBC ALBA UK" tvg-name="BBC ALBA UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/bbcalba.png" group-title="UK", BBC Alba HD [OFF-AIR]
