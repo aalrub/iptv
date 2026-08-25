@@ -1,5 +1,4 @@
 #EXTM3U
-#PLAYLIST:Checked by CODECS.COM M3U Checker
 
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
@@ -31,8 +30,38 @@ https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCNewsArabic.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/BBC_News_Arabic.svg" group-title="News", BBC Arabic
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+
+#EXTINF:-1 tvg-id="FajerTV.ps" group-title="Palestine", Alfajr TV
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FajerTV.ps" group-title="Palestine", Alfajr TV
+https://vstream2.hadara.ps:8443/AlfajertvHDFull_web/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FajerTV.ps" group-title="Palestine", Alfajr TV
+https://vstream3.hadara.ps:8443/AlfajertvUN_web/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.raya.ps/assets/images/logo.png" group-title="Palestine", Raya TV
+https://htvmada.mada.ps:4443/raya/index.m3u8
+
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.raya.ps/assets/images/logo.png" group-title="Palestine", Raya TV
+http://htv.mada.ps:8888/raya/tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.raya.ps/assets/images/logo.png" group-title="Palestine", Raya TV
+http://vstream3.hadara.ps:8081/RayaHD_web/web/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="FarahTV.ps" group-title="Palestine", Jenin Farah TV
+https://htvmada.mada.ps:4443/farah/index.m3u8
+
+
+#EXTINF:-1 tvg-id="FarahTV.ps" group-title="Palestine", Al fajer
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PalestineTV.ps" group-title="Palestine", Palestine News
+https://live.pbc.ps/hls/palestinenews.m3u8
+
 
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
@@ -4908,4 +4937,3 @@ https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us@SD" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Kids",MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-
