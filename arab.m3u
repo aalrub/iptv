@@ -3707,7 +3707,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 
 
 ##Sports##
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DeN1MoY.png" group-title="SPORTS,Toros TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DeN1MoY.png" group-title="SPORT",Toros TV
 http://cdn.miip.tv:80/samuel/123456/17268
 
 #EXTINF:-1 tvg-logo="" group-title="Sport", GOL TV ES
@@ -3803,27 +3803,27 @@ http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png" group-title="Sport", ESport3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DW TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",DW TV
 http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELSHINTA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" group-title="",ELSHINTA
+#EXTINF:-1 tvg-id="" tvg-name="ELSHINTA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" group-title="Entertainment",ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",EURONEWS
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="",Foodie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="Cooking",Foodie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Food",Foodie Channel [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cooking",Foodie Channel [540p]
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",FOX
 http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX MOVIE PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",FOX MOVIE PREMIUM
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS 2 HD (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",FOX SPORTS 2 HD (Opt-1)
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS 2 HD (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",FOX SPORTS 2 HD (Opt-2)
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS HD (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",FOX SPORTS HD (Opt-1)
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOX SPORTS HD (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",FOX SPORTS HD (Opt-2)
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
 
 
@@ -6388,7 +6388,7 @@ http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/742619501481451520/VoOZ0v2y.jpg" group-title="Entertainment",I am
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4Y" group-title="",RetroCrush
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4Y" group-title="Entertainment",RetroCrush
 #EXTINF:-1 tvg-id="GameOne.fr@SD" tvg-logo="https://i.imgur.com/UHkaObv.png" group-title="Entertainment",Game One (1080p)
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-logo="https://i.imgur.com/Gwz78jZ.png" http-referrer="https://giktvmx.g3radio.mx" group-title="Entertainment",GikTVMx (480p)
@@ -6873,36 +6873,36 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 
 ##Kids##
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS", Animax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="Kids", Animax
 #http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="KIDS", Cachipum
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="Kids", Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="KIDS", Cbeebies [OFF AIR]
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="Kids", Cbeebies [OFF AIR]
 #https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8?__fvd__
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="KIDS", Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="Kids", Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
-#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="KIDS", CBBC [OFF AIR]
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="Kids", CBBC [OFF AIR]
 #https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png" group-title="KIDS", Boing
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png" group-title="Kids", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-1)
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="Kids", Disney Channel (Opt-1)
 http://cdn.miip.tv:80/samuel/123456/495
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-2)
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="Kids", Disney Channel (Opt-2)
 http://cdn.miip.tv:80/samuel/123456/3857
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-3)
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="Kids", Disney Channel (Opt-3)
 http://cdn.miip.tv:80/samuel/123456/2240
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a8/a7/f8/a8a7f86247f8dfed300fa62bda462cdb.png" group-title="KIDS", Nick Jr
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a8/a7/f8/a8a7f86247f8dfed300fa62bda462cdb.png" group-title="Kids", Nick Jr
 http://cdn.miip.tv:80/samuel/123456/471
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/TVEClan_logo.png" group-title="KIDS", Clan TVE
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/TVEClan_logo.png" group-title="Kids", Clan TVE
 http://cdn.miip.tv:80/samuel/123456/2370
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Kids",Chithiram (576p)
 https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -7202,18 +7202,18 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 # --- UNGROUPED ---
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FRANCE24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",FRANCE24
 http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="",Global TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="News",Global TV (Opt-1)
 http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png" group-title="",Global TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png" group-title="News",Global TV (Opt-2)
 http://202.80.222.182:80/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="News",GTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="",Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Entertainment",Hits
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="",Home & Living
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Entertainment",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/742619501481451520/VoOZ0v2y.jpg" group-title="",I am
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/742619501481451520/VoOZ0v2y.jpg" group-title="Entertainment",I am
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4Y" group-title="",RetroCr--
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4Y" group-title="Entertainment",RetroCr--
