@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Night_of_the_Living_Dead_ poster.jpeg" group-title="Documentry",الربط السككي.. مشروع سعودي تركي بخريطة إقليمية جديدة | موازين
-https://www.youtube.com/watch?v=ajRuOgBx5pk
+https://aalrub3.pythonanywhere.com/stream?url=https://www.youtube.com/watch?v=ajRuOgBx5pk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/YouTube_logo_2017.png" group-title="YouTube Content", Single Video Title
 https://www.youtube.com/watch?v=ajRuOgBx5pk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/YouTube_logo_2017.png" group-title="Live TV", YouTube Channel Live Stream
