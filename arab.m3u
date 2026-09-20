@@ -18,6 +18,8 @@ http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD" tvg-logo="https://i.imgur.com/nUlZvSe.png" group-title="My Favorate",Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="My Favorate",Holy Quran Radio Nablus (720p)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="My Favorate",Iqraa Arabic (1080p) [Not 24/7]
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="My Favorate",Iqraa Quran (1080p)
@@ -255,8 +257,7 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 https://vstream3.hadara.ps:8443/AlfajertvHD1_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png" group-title="My Favorate",ALFAjr2
 http://stream2.alfajertv.com:80/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="My Favorate",Holy Quran Radio Nablus (720p)
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+
 #EXTINF:-1 tvg-id="AlResalah.sa@SD" tvg-logo="https://i.imgur.com/7o4HgrP.png" http-referrer="https://rotana.net/" group-title="My Favorate",Al Resalah (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanTourism.jo@SD" tvg-logo="https://i.imgur.com/gpeIoU9.png" group-title="My Favorate",Jordan Tourism (1080p)
