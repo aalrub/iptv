@@ -6,13 +6,24 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-logo="https://i.imgur.com/v6VsFEt.png" group-title="My Favorate",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="My Favorate",Oman TV Cultural (1080p)
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="My Favorate",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="My Favorate",Al Jazeera Documentary
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="My Favorate",Ajman TV (1080p)
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://mk0ajmantvb4ih3ifdec.kinstacdn.com/wp-content/uploads/2019/07/logo_header_2-1.png" tvg-country="AE" group-title="My Favorate",Ajman TV
-#EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="General",Ajman TV (New)
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="My Favorate",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 tvg-id="AjyalTV.ps@SD" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" tvg-country="Palestine" tvg-language="Arabic" group-title="My Favorate",Ajyal TV (720p)
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://ik.imagekit.io/4lyysygku/60656d11aa70c.jpg" group-title="My Favorate",Holy Quran Radio Nablus (720p)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-id="AlNajahNews.ps@SD" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="My Favorate",Al Najah News (720p)
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:-1 tvg-id="MaanTV.ps@SD" tvg-logo="https://i.imgur.com/hRFa03k.png" group-title="My Favorate",Ma'an TV (720p)
+https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="My Favorate",Palestine Al Yawm (720p)
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="My Favorate",Al Jazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="AlJazeera2.qa@HD" tvg-logo="https://i.imgur.com/miq8O1Q.png" group-title="My Favorate",Al Jazeera 2
@@ -29,16 +40,12 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="My Favorate",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="My Favorate",Al Arabiya Programs
-https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="My Favorate",Al Hadath
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="My Favorate",Al Manar
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="My Favorate",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="My Favorate",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="My Favorate",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="My Favorate",France 24 Arabic
@@ -55,7 +62,6 @@ https://stream.skynewsarabia.com/ott/ott.m3u8
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="My Favorate",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="My Favorate",Al Quran Al Kareem TV (720p)
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="My Favorate",Al Sunnah Al Nabawiyah TV (720p)
@@ -64,24 +70,13 @@ http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD" tvg-logo="https://i.imgur.com/nUlZvSe.png" group-title="My Favorate",Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://ik.imagekit.io/4lyysygku/60656d11aa70c.jpg" group-title="My Favorate",Holy Quran Radio Nablus (720p)
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+
 #EXTINF:-1 tvg-id="IqraaArabic.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="My Favorate",Iqraa Arabic (1080p) [Not 24/7]
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="My Favorate",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="SerajTV.ps@SD" tvg-logo="https://i.imgur.com/1d25a9Q.png" http-referrer="https://www.alaqsanet.news/" group-title="My Favorate",Seraj TV (1080i)
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 tvg-id="AjyalTV.ps@SD" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" tvg-country="Palestine" tvg-language="Arabic" group-title="My Favorate",Ajyal TV (720p)
-http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="My Favorate",Oman Althakafia (1080p)
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlNajahNews.ps@SD" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="My Favorate",Al Najah News (720p)
-https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1 tvg-id="MaanTV.ps@SD" tvg-logo="https://i.imgur.com/hRFa03k.png" group-title="My Favorate",Ma'an TV (720p)
-https://htvmada.mada.ps:4443/maannews/index.m3u8
-#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="My Favorate",Palestine Al Yawm (720p)
-https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="My Favorate",Wattan TV
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="My Favorate",Palestine Today (480p) [Geo-blocked]
